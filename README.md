@@ -1,1 +1,1 @@
-# BD_Vanilla-javaScript_Project
+# 20 Web Projects With Vanilla JavaScript
